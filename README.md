@@ -22,14 +22,15 @@
   - <a href="https://github.com/Kondareddy1209/CSA0636-DAA">Design Analysis and Algorithms</a>
   - <a href="https://github.com/Kondareddy1209/CSA1456-Compilier-design">Compiler Design</a>
 
-<h2>My Certifications</h2>
+<h2>🎓 My Certifications</h2>
 <b>List of my Certifications:</b><br>
-Google Analytics Certification <br>
-Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate - Oracle University <br>
-Oracle Cloud Infrastructure 2024 Certified Foundations Associate - Oracle University <br>
-Cybersecurity Job Simulation - PWC <br>
-Cybersecurity Job Simulation - JP Morgan & Chase <br>
-Completed Virtual Internship Program in Teachnook - Cloud Computing <br>
+🎓 Google Analytics Certification <br>
+🎓 Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate - Oracle University <br>
+🎓 Oracle Cloud Infrastructure 2024 Certified Foundations Associate - Oracle University <br>
+🎓 Cybersecurity Job Simulation - PWC <br>
+🎓 Cybersecurity Job Simulation - JP Morgan & Chase <br>
+🎓 Completed Virtual Internship Program in Teachnook - Cloud Computing <br>
+
 
 <h2>🤳 Connect with me:</h2>
 
