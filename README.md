@@ -35,17 +35,19 @@
 <h2>🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/ambavaram-tirumala-kondareddy-b68851275/" target="_blank">
-  <img align="left" alt="Kondareddy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Kondareddy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin-white.svg" />
 </a>
 
 <a href="https://www.instagram.com/mr_konda_reddy.c_18/" target="_blank">
-  <img align="left" alt="Kondareddy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Kondareddy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram-white.svg" />
 </a>
 
 <a href="https://github.com/Kondareddy1209" target="_blank">
-  <img align="left" alt="Kondareddy | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Kondareddy | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github-white.svg" />
 </a>
 <br/>
+
+<!-- This is the README file for your GitHub profile -->
 
 <!-- This is the README file for your GitHub profile -->
 
