@@ -21,6 +21,12 @@
   - <a href="https://github.com/Kondareddy1209/CSA5141-cryptography-and-network-security">Cryptography and Network Security</a>
   - <a href="https://github.com/Kondareddy1209/CSA0636-DAA">Design Analysis and Algorithms</a>
   - <a href="https://github.com/Kondareddy1209/CSA1456-Compilier-design">Compiler Design</a>
+- <b>Learn Flow Repositories</b>
+  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/E-commerce">E-commerce</a>
+  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/Portfolio">My personal Portfolio</a>
+  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/Quiz">Quiz&Trivia</a>
+  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/expensive%20tracer">Expensive tracer</a>
+  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/online%20learning%20platform">Online Learning Platform</a>
 
 <h2>🎓 My Certifications</h2>
 <b>List of my Certifications:</b><br>
@@ -30,6 +36,8 @@
 🎓 Cybersecurity Job Simulation - PWC <br>
 🎓 Cybersecurity Job Simulation - JP Morgan & Chase <br>
 🎓 Completed Virtual Internship Program in Teachnook - Cloud Computing <br>
+🎓 Got Exceptional Certification in Codevipassana Season7 -Google CLoud Kochi <br>
+
 
 
 <h2>🤳 Connect with me:</h2>
