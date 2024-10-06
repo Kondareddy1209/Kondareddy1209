@@ -1,9 +1,9 @@
 <h1 align="center" style="color: #4A90E2;">Hi 👋, I'm Ambavaram Tirumala Kondareddy</h1>
-<h3 align="center" style="color: #50E3C2;">A Student/ Working in Differnt Technologies  from India</h3>
+<h3 align="center" style="color: #50E3C2;">A Student/Working in Differnt Technologies from India</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
     <div style="border: 5px solid #FF5733; border-radius: 50%; overflow: hidden; width: 120px; height: 120px;">
-       
+    </div>
 </div>
 
 <p align="left">
@@ -13,6 +13,7 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kondareddy1209&show_icons=true&locale=en&bg_color=FFFFFF&title_color=4A90E2&text_color=000000" alt="Kondareddy1209" />
 </p>
+
 
 <h2>👨‍💻Some Of My Github Repositories</h2>
 
