@@ -1,8 +1,13 @@
-<h1>Hi, I'm Kondareddy <br/>
-  <a href="https://github.com/Kondareddy1209">Student</a>, 
-  <a href="https://www.linkedin.com/in/ambavaram-tirumala-kondareddy-b68851275/">Working in Different Technologies</a>
-</h1>
+<h1 align="center" style="color: #4A90E2;">Hi 👋, I'm Ambavaram Tirumala Kondareddy</h1>
+<h3 align="center" style="color: #50E3C2;">A Student/ Working in Differnt Technologies  from India</h3>
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Kondareddy1209&label=Profile%20views&color=FF5733&style=flat" alt="Kondareddy1209" />
+</p>
+
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kondareddy1209&show_icons=true&locale=en&bg_color=FFFFFF&title_color=4A90E2&text_color=000000" alt="Kondareddy1209" />
+</p>
 <h2>👨‍💻Some Of My Github Repositories</h2>
 
 - <b>Practicing</b>
