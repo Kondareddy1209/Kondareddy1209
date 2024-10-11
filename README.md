@@ -1,90 +1,24 @@
-<h1 align="center" style="color: #4A90E2;">Hi 👋, I'm Ambavaram Tirumala Kondareddy</h1>
-<h3 align="center" style="color: #50E3C2;">A Student/Working in Differnt Technologies from India</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; margin: 20px;">
-    <div style="border: 5px solid #FF5733; border-radius: 50%; overflow: hidden; width: 120px; height: 120px;">
-    </div>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_konda_reddy.c_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ambavaram Tirumala kondareddy) 
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Kondareddy1209&label=Profile%20views&color=FF5733&style=flat" alt="Kondareddy1209" />
-</p>
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kondareddy1209&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kondareddy1209&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kondareddy1209&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kondareddy1209&show_icons=true&locale=en&bg_color=FFFFFF&title_color=4A90E2&text_color=000000" alt="Kondareddy1209" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kondareddy1209&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h2>👨‍💻Some Of My Github Repositories</h2>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kondareddy1209&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- <b>Practicing</b>
-  - <a href="https://github.com/Kondareddy1209/operating-system">Practicing Programs in Operating Systems</a>
-- <b>Some Basic Python Programs</b>
-  - <a href="https://github.com/Kondareddy1209/python-programming-for-django-frame-work">Python Programming</a>
-- <b>Practicing Different Programming Languages</b>
-  - <a href="https://github.com/Kondareddy1209/c-programming">C Programming</a> 
-  - <a href="https://github.com/Kondareddy1209/CSA0344-Data-Structures">Data Structures</a>
-  - <a href="https://github.com/Kondareddy1209/DSA0164">OOPS in C++</a>
-- <b>Learning Other Tools</b>
-  - <a href="https://github.com/Kondareddy1209/CSA-0730---Computer-Networks">Basic Network Structures</a>
-  - <a href="https://github.com/Kondareddy1209/CSA1748-Artifical-intelligence">Worked on AI Framework Tools in Python & Prolog</a>
-  - <a href="https://github.com/Kondareddy1209/CSA1363-TOC">Theory of Computation</a>
-- <b>Other Special Repositories</b>
-  - <a href="https://github.com/Kondareddy1209/CSA5141-cryptography-and-network-security">Cryptography and Network Security</a>
-  - <a href="https://github.com/Kondareddy1209/CSA0636-DAA">Design Analysis and Algorithms</a>
-  - <a href="https://github.com/Kondareddy1209/CSA1456-Compilier-design">Compiler Design</a>
-- <b>Learn Flow Repositories</b>
-  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/E-commerce">E-commerce</a>
-  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/Portfolio">My personal Portfolio</a>
-  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/Quiz">Quiz&Trivia</a>
-  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/expensive%20tracer">Expensive tracer</a>
-  - <a href="https://github.com/Kondareddy1209/LEARNFLOW---Web-development/tree/main/online%20learning%20platform">Online Learning Platform</a>
+---
+[![](https://visitcount.itsvg.in/api?id=kondareddy1209&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2>🎓 My Certifications</h2>
-<b>List of my Certifications:</b><br>
-🎓 Google Analytics Certification <br>
-🎓 Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate - Oracle University <br>
-🎓 Oracle Cloud Infrastructure 2024 Certified Foundations Associate - Oracle University <br>
-🎓 Cybersecurity Job Simulation - PWC <br>
-🎓 Cybersecurity Job Simulation - JP Morgan & Chase <br>
-🎓 Completed Virtual Internship Program in Teachnook - Cloud Computing <br>
-🎓 Got Exceptional Certification in Codevipassana Season7 -Google CLoud Kochi <br>
-
-
-
-<h2>🤳 Connect with me:</h2>
-
-<a href="https://www.linkedin.com/in/ambavaram-tirumala-kondareddy-b68851275/" target="_blank">
-  <img align="left" alt="Kondareddy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: white;" />
-</a>
-
-<a href="https://www.instagram.com/mr_konda_reddy.c_18/" target="_blank">
-  <img align="left" alt="Kondareddy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: white;" />
-</a>
-
-<a href="https://github.com/Kondareddy1209" target="_blank">
-  <img align="left" alt="Kondareddy | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="color: white;" />
-</a>
-<br/>
-
-<!-- This is the README file for your GitHub profile -->
-
-<!-- This is the README file for your GitHub profile -->
-
-<!-- This is the README file for your GitHub profile -->
-
-
-<!--
-**Kondareddy1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
