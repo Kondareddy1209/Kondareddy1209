@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;Welcome+to+my+profile!;+I'm+Ambavaram+Tirumala+Kondareddy!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;Welcome+to+my+profile!;+I'm+Ambavaram+Tirumala+Kondareddy!;&center=true&size=20">
   </a>
 </h1>
 
@@ -10,7 +10,7 @@
 
 <h2 align="left">About Me ✨</h2>
 
-<img align="right" height="200" src="https://i.imgflip.com/7m4wl6.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/7m4wl6.gif" />
 
 <h5 align="left">🔭 Currently working on cloud computing projects.<br>👯 Looking to collaborate on exciting tech initiatives.<br>🤝 Need help with large-scale IoT deployments.<br>🌱 Learning advanced data structures and AI applications.<br>💬 Ask me about AWS, Google Cloud, or Python.<br>⚡ Fun fact: I love solving puzzles and working on tech challenges!</h5>
 
@@ -57,6 +57,8 @@
 ---
 
 ## 🐍 GitHub Contribution Snake:
+![snake gif](https://github.com/kondareddy1209/kondareddy1209/blob/output/snake.svg)
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kondareddy1209/kondareddy1209/blob/output/github-contribution-grid-snake-dark.svg" />
