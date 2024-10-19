@@ -1,69 +1,117 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=kondareddy1209&style=flat-square">
+<img align="right" src="https://komarev.com/ghpvc/?username=Kondareddy1209&style=flat-square">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;Welcome+to+my+profile!;+I'm+Ambavaram+Tirumala+Kondareddy!;&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋;Hi+welcome+to+myprofile!;+I'm+Ambavaram+Tirumala+Kondareddy!;&center=true&size=20">
   </a>
 </h1>
 
-<p align="left">Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋, a passionate developer and learner exploring the vast fields of cloud computing and cybersecurity. 🚀</p>
+###
+
+<p align="left">Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋, a passionate coder and a student at Saveetha School of Engineering 🎓 pursuing a BSc in Computer Science 💻 with a focus on cybersecurity and cloud computing.</p>
+
+###
 
 <h2 align="left">About Me ✨</h2>
 
+###
+
 <img align="right" height="200" src="https://i.imgflip.com/7m4wl6.gif" />
 
-<h5 align="left">🔭 Currently working on cloud computing projects.<br>👯 Looking to collaborate on exciting tech initiatives.<br>🤝 Need help with large-scale IoT deployments.<br>🌱 Learning advanced data structures and AI applications.<br>💬 Ask me about AWS, Google Cloud, or Python.<br>⚡ Fun fact: I love solving puzzles and working on tech challenges!</h5>
+###
+
+<h5 align="left">🔭 Currently working on network management and bandwidth optimization.<br>👯 Looking to collaborate on cloud computing projects.<br>🤝 Need help with advanced C++ topics.<br>🌱 Learning Java and web development.<br>💬 Ask me about cybersecurity or network topologies.<br>⚡ Fun fact: I love solving puzzles with AI! ☕💻</h5>
+
+###
 
 <h2 align="left">Interest and Skills 🔥</h2>
 
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="42" alt="google cloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="42" alt="oracle logo" />
 </div>
 
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/ambavaram-tirumala-kondareddy-b68851275/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Kondareddy1209"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.facebook.com/profile.php?id=100057444433769"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://kondareddy1209.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+###
 
-## 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="left">Let's Connect! 🌐</h2>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kondareddy1209&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kondareddy1209&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kondareddy1209&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=kondareddy1209&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="left">
+  <a href="https://github.com/Kondareddy1209" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/ambavaram-tirumala-kondareddy-b68851275/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://kondareddy1209.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100057444433769" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
 
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+###
 
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=kondareddy1209&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-stats-alpha.vercel.app/api?username=Kondareddy1209&cc=282a36&tc=edede7&ic=ff6e96&bc=dddbdb" alt="Ambavaram's Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kondareddy1209&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://streak-stats.demolab.com?user=Kondareddy1209&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
+    </a>
+  </div>
+  <br>
+  <br>
+  <br>
+</p>
 
----
+<hr>
 
-## 🐍 GitHub Contribution Snake:
+###
+
 <div align="center">
+  <h2>🚀 My Contributions 🚀</h2>
+  <br>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kondareddy1209/kondareddy1209/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kondareddy1209/kondareddy1209/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kondareddy1209/kondareddy1209/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kondareddy1209/Kondareddy1209/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kondareddy1209/Kondareddy1209/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Kondareddy1209/Kondareddy1209/blob/output/github-contribution-grid-snake.svg" />
   </picture>
+
+  <br>
+  <br>
+  <br>
 </div>
 
+###
 
-[![](https://visitcount.itsvg.in/api?id=kondareddy1209&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">🏆 Trophies 🏆</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kondareddy1209&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+###
+
+<h4 align="center">
+  <a href="https://github.com/Kondareddy1209?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
