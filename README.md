@@ -49,7 +49,7 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
   <a href="https://www.linkedin.com/in/ambavaram-tirumala-kondareddy-b68851275/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   </a>
-  <a href="https://kondareddy1209.github.io/" target="_blank">
+  <a href="https://Kondareddy1209.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internetexplorer&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100057444433769" target="_blank">
