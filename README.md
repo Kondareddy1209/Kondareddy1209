@@ -66,8 +66,8 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-stats-alpha.vercel.app/api?username=Kondareddy1209&cc=282a36&tc=edede7&ic=ff6e96&bc=dddbdb" alt="Ambavaram's Stats" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Kondareddy1209&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="Kondareddy's GitHub Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kondareddy1209&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" />
@@ -75,25 +75,18 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://streak-stats.demolab.com?user=Kondareddy1209&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img width=390 align="center" src="https://streak-stats.demolab.com/?user=Kondareddy1209&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD&fire=ff6e96&ring=ff6e96&currStreakLabel=ff6e96" />
     </a>
   </div>
   <br>
-  <br>
-  <br>
 </p>
-
-<hr>
-
-
-</div>
 
 ###
 
 <h2 align="center">🏆 Trophies 🏆</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kondareddy1209&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kondareddy1209&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" />
 </p>
 
 ###
@@ -102,7 +95,5 @@
   <a href="https://github.com/Kondareddy1209?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
-
-## ⚡MY Contribution ⚡
+## ⚡ MY Contribution ⚡
 ![snake gif](https://github.com/Kondareddy1209/Kondareddy1209/blob/output/github-contribution-grid-snake.gif)
