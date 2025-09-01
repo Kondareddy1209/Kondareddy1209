@@ -7,12 +7,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Kondareddy1209/Kondareddy1209/blob/main/assets/developer.gif" width="400" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 </p>
 
 ## 👨‍💻 About Me
 
-<img align="right" height="200" src="https://i.imgflip.com/7m4wl6.gif" />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋, a passionate coder and a student at Saveetha School of Engineering 🎓 pursuing a BSc in Computer Science 💻 with a focus on cybersecurity and cloud computing.
 
@@ -65,17 +65,15 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width="390" src="https://github-stats-alpha.vercel.app/api?username=Kondareddy1209&cc=282a36&tc=edede7&ic=ff6e96&bc=dddbdb" alt="Ambavaram's Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kondareddy1209&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" />
+  <a href="https://github.com/Kondareddy1209">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kondareddy1209&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kondareddy1209&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
   </a>
 </div>
-<br clear="both">
+
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="325" align="center" src="https://streak-stats.demolab.com?user=Kondareddy1209&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
+  <a href="https://github.com/Kondareddy1209">
+    <img src="https://streak-stats.demolab.com/?user=Kondareddy1209&theme=radical&hide_border=true"/>
   </a>
 </div>
 
@@ -84,19 +82,25 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondareddy1209&theme=dracula&hide_border=true&bg_color=00000000&color=58a6ff&line=1f6feb&point=f85149" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondareddy1209&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🎯 Detailed Stats
+## 🎯 Detailed Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kondareddy1209&theme=github_dark&bg_color=00000000" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kondareddy1209&theme=github_dark&bg_color=00000000" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kondareddy1209&theme=github_dark&bg_color=00000000" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kondareddy1209&theme=github_dark&bg_color=00000000" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kondareddy1209&theme=github_dark&utcOffset=5.5&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kondareddy1209&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kondareddy1209&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kondareddy1209&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kondareddy1209&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kondareddy1209&theme=radical&utcOffset=5.5" />
 </div>
 
 ---
@@ -104,15 +108,20 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kondareddy1209&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kondareddy1209&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </p>
 
 ---
 
-## ⚡ My Contribution ⚡
+## 🐍 Contribution Snake
 
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/Kondareddy1209/Kondareddy1209/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kondareddy1209/Kondareddy1209/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kondareddy1209/Kondareddy1209/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kondareddy1209/Kondareddy1209/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -125,13 +134,12 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
 
 ---
 
-## 📈 Profile Views & Repository Stats
+## 📈 Profile Metrics
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kondareddy1209&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Kondareddy1209?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Kondareddy1209?label=Stars&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/badge/Total%20Repos-59-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Kondareddy1209?label=Total%20Stars&style=for-the-badge&color=yellow" />
 </div>
 
 <div align="center">
@@ -140,6 +148,7 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
     <img src="https://img.shields.io/badge/View%20All%20Repositories-0066cc?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
 <div align="center">
   <i>Happy Coding! 😊</i>
   <br>
