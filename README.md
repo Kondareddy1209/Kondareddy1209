@@ -71,11 +71,11 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
 
 <div align="center">
   
-<!-- Method 1: Basic Stats -->
+<!-- GitHub Stats using your new Vercel deployment -->
 ![Kondareddy's GitHub stats](https://github-readme-stats-iipi0wbta-kondareddys-projects.vercel.app/api?username=Kondareddy1209&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<!-- Method 2: Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kondareddy1209&layout=compact&theme=radical&langs_count=8)
+<!-- Top Languages using your new Vercel deployment -->
+![Top Languages](https://github-readme-stats-iipi0wbta-kondareddys-projects.vercel.app/api/top-langs/?username=Kondareddy1209&layout=compact&theme=radical&langs_count=8)
 
 </div>
 
