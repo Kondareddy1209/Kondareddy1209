@@ -70,30 +70,26 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
 ## 📊 GitHub Statistics
 
 <div align="center">
+  
+<!-- GitHub Stats using your new Vercel deployment -->
+![Kondareddy's GitHub stats](https://github-readme-stats-iipi0wbta-kondareddys-projects.vercel.app/api?username=Kondareddy1209&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<!-- GitHub Stats Card -->
-![Kondareddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kondareddy1209&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kondareddy1209&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+<!-- Top Languages using your new Vercel deployment -->
+![Top Languages](https://github-readme-stats-iipi0wbta-kondareddys-projects.vercel.app/api/top-langs/?username=Kondareddy1209&layout=compact&theme=radical&langs_count=8)
 
 </div>
 
-<!-- GitHub Profile Summary Cards -->
+<!-- Alternative Stats Service -->
 <div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kondareddy1209&theme=tokyonight)
-
-![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kondareddy1209&theme=tokyonight)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kondareddy1209&theme=tokyonight&utcOffset=5.5)
+  
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kondareddy1209?cardType=github&theme=dark&preferLogin=false)
 
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kondareddy1209&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kondareddy1209&theme=radical)
 
 </div>
 
@@ -103,7 +99,7 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kondareddy1209&theme=tokyo-night&bg_color=1a1b27&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kondareddy1209&theme=react-dark&bg_color=20232a&hide_border=true)
 
 </div>
 
@@ -113,7 +109,7 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Kondareddy1209&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Kondareddy1209&theme=onedark&column=7)
 
 </div>
 
@@ -124,7 +120,6 @@ Hey there! Welcome to my GitHub profile. I'm Ambavaram Tirumala Kondareddy 👋,
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kondareddy1209&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Kondareddy1209?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Kondareddy1209?label=Total%20Stars&style=for-the-badge&color=yellow" />
 </div>
 
 ---
