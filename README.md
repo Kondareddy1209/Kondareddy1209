@@ -145,21 +145,32 @@ graph LR
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+<!-- Updated Stats Section with Better Configuration -->
 <p align=center>
   <div align=center>
     <a href="https://github.com/Kondareddy1209" title="Go to Source">
-      <img align="left" width=390 src="https://github-stats-alpha.vercel.app/api?username=Kondareddy1209&cc=282a36&tc=edede7&ic=ff6e96&bc=dddbdb" alt="Kondareddy's Stats" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Kondareddy1209&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" alt="Kondareddy's GitHub Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kondareddy1209&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kondareddy1209&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&order=2" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/Kondareddy1209">
-      <img width=325 align="center" src="https://streak-stats.demolab.com?user=Kondareddy1209&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
+      <img width=390 align="center" src="https://streak-stats.demolab.com?user=Kondareddy1209&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" />
     </a>
   </div>
+  
+  <!-- Alternative Stats Provider -->
+  <br>
+  <div align=center>
+    <a href="https://github.com/Kondareddy1209">
+      <img width=390 align="center" src="https://github-stats-alpha.vercel.app/api?username=Kondareddy1209&cc=282a36&tc=ff6e96&ic=58a6ff&bc=21262d&show_icons=true" alt="Alternative GitHub Stats" />
+    </a>
+  </div>
+  
   <br>
   <br>
   <br>
@@ -173,7 +184,10 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondareddy1209&theme=dracula&bg_color=282a36&color=ff6e96&line=ff6e96&point=f8f8f2&area=true&area_color=ff6e96&hide_border=false&custom_title=My%20GitHub%20Journey&radius=8" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondareddy1209&theme=dracula&bg_color=282a36&color=ff6e96&line=ff6e96&point=f8f8f2&area=true&area_color=ff6e96&hide_border=false&custom_title=My%20GitHub%20Journey%20-%20406%20Contributions%20in%202025&radius=8" alt="Contribution Graph"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 </div>
 
@@ -244,6 +258,3 @@ graph LR
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
