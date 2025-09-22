@@ -24,7 +24,7 @@
 
 ###
 
-<h5 align="left">🔭 Currently working on network management and bandwidth optimization.<br>👯 Looking to collaborate on cloud computing projects.<br>🤝 Need help with advanced C++ topics.<br>🌱 Learning Java and web development.<br>💬 Ask me about cybersecurity or network topologies.<br>⚡ Fun fact: I love solving puzzles with AI! ☕💻</h5>
+<h5 align="left">🔭 Currently working on network management and bandwidth optimization.<br>👯 Looking to collaborate on cloud computing projects.<br>🤝 Need help with advanced Python topics.<br>🌱 Learning Java and web development.<br>💬 Ask me about cybersecurity or network topologies.<br>⚡ Fun fact: I love solving puzzles with AI! ☕💻</h5>
 
 ###
 
