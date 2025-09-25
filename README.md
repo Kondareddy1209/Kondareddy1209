@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hey there! Welcome to my GitHub profile. I'm <strong>Ambavaram Tirumala Kondareddy</strong> 👋, a passionate coder and a student at <strong>Saveetha School of Engineering</strong> 🎓 pursuing a BSc in Computer Science 💻 with a focus on cybersecurity and cloud computing.</p>
+<p align="left">Hey there! Welcome to my GitHub profile. I'm <strong>Ambavaram Tirumala Kondareddy</strong> 👋, a passionate coder and a student at <strong>Saveetha School of Engineering</strong> 🎓 pursuing a BE in Computer Science 💻 with a focus on cybersecurity and cloud computing.</p>
 
 ###
 
