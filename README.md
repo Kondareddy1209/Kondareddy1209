@@ -38,6 +38,32 @@ graph LR
     E --> F[AI & Machine Learning]
     F --> G[Advanced Projects]
 ```
+<h2 align="center">🏅 Open Source & GSSoC Journey</h2>
+
+<p align="center">
+  <a href="https://gssoc.girlscript.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/GSSoC-Contributor-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/GSSoC-2025-0e75b6?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website/main/static/img/gssoc-logo.png" width="220" alt="GSSoC Logo"/>
+</p>
+
+<p align="center">
+🌟 <strong>GirlScript Summer of Code (GSSoC) 2025 Contributor</strong> <br><br>
+🚀 Actively contributed to multiple open-source repositories<br>
+🏆 Earned <strong>78+ contribution points</strong> and secured a <strong>Top Rank (≈ 362)</strong><br>
+💡 Gained hands-on experience in real-world collaboration, Git/GitHub workflows, and code reviews
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSoC%20Points-60%2B-success?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Role-Open%20Source%20Contributor-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Community-GirlScript-orange?style=for-the-badge"/>
+</p>
 
 ###
 
