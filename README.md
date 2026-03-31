@@ -12,7 +12,7 @@
 
 ---
 
-<p align="left">Hey there! Welcome to my GitHub profile. I'm <strong>Ambavaram Tirumala Kondareddy</strong> 👋, a passionate coder and a student at <strong>Saveetha School of Engineering</strong> 🎓 pursuing a BE in Computer Science 💻 with a focus on cybersecurity and cloud computing.</p>
+<p align="left">Hey there! Welcome to my GitHub profile. I'm <strong>Ambavaram Tirumala Kondareddy</strong> 👋, a passionate coder and a final-year student at <strong>Saveetha School of Engineering</strong> 🎓 pursuing a BE in Computer Science 💻 with a focus on cybersecurity and cloud computing. CGPA: <strong>8.57/10</strong></p>
 
 ---
 
@@ -149,6 +149,106 @@ graph LR
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🤖 <strong>AI Assistant Platform<br/>(Agent Seller)</strong></td>
+      <td>Role-based AI agent platform with RBAC workflows, API & auth debugging, and structured team deployment</td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+      </td>
+      <td>
+        <a href="https://github.com/Kondareddy1209/Hackfinity-TechArmy"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white"/></a><br/>
+        <a href="https://hackfinity-techarmy.onrender.com/auth"><img src="https://img.shields.io/badge/Live-00C853?style=flat&logo=render&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td>🎬 <strong>Movie Recommendation System</strong></td>
+      <td>Hybrid recommendation engine with GCP deployment, collaborative + content-based filtering, and data parsing fixes</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+      </td>
+      <td>
+        <a href="https://github.com/Kondareddy1209/Movie_recommendations"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white"/></a><br/>
+        <a href="https://movierecommendationgcp.streamlit.app/"><img src="https://img.shields.io/badge/Live-00C853?style=flat&logo=streamlit&logoColor=white"/></a><br/>
+        <a href="https://medium.com/@rkonda959/movie-recommendations-personalized-film-suggestions-f03a6ecf5345"><img src="https://img.shields.io/badge/Blog-12100E?style=flat&logo=medium&logoColor=white"/></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🏆 Awards & Recognition
+
+<div align="center">
+
+| 🥇 Award | 🏛️ Organization | 📅 Year |
+|:---|:---|:---:|
+| 📊 Tableau Visualization Challenge – 4th Place (out of 25 teams) | Saveetha School of Engineering | 2025 |
+| 🎤 Best Technical Poster Presenter (among 1000+ students) | Saveetha School of Engineering | 2024 |
+
+</div>
+
+---
+
+## 💼 Experience
+
+### ☁️ Cloud Computing Intern — *Innovilla (in association with Teachnook)* | Jan 2024 – Feb 2024
+`Certificate ID: TNK2404-01391`
+
+- Deployed and monitored **cloud-hosted applications**, helping reduce post-deployment failures by ~30%
+- Performed functional validation and regression testing after deployments, preventing critical workflow failures
+- Documented troubleshooting steps, test results, and fixes to improve team response time
+- Gained hands-on experience in **cloud infrastructure and teamwork**
+
+### 🌐 Open Source Contributor — *GirlScript Summer of Code (GSSoC)* | Jul 2025 – Nov 2025
+
+- Contributed **20+ pull requests** with a **90% merge rate** across multiple repositories
+- Debugged and enhanced existing features while navigating **large, unfamiliar codebases**
+- Participated in **code reviews**, followed community standards, and collaborated with multiple maintainers
+- Gained experience in **version control, documentation, collaboration, and software development workflows**
+
+---
+
+## 📜 Certifications
+
+- 📊 **[Google Data Analytics Certificate](https://drive.google.com/file/d/1Ok0YFQLjMsJa2eNauePkoRo3m1g8ExCr/view?usp=sharing)** | Google | 2024
+- ☁️ **[Oracle Cloud Infrastructure AI Foundations Associate](https://drive.google.com/file/d/1sC5QgTaPg1E6Dc3AHrUH9vOTrnPVDL8L/view?usp=sharing)** | Oracle | 2024
+- 🏗️ **[AWS Solutions Architecture Job Simulation](https://drive.google.com/file/d/1z0TraLQTfqqJfTAyyH0q7_GFLkDokrjP/view?usp=sharing)** | Forage | 2024
+
+---
+
+## 🎯 Current Focus Areas
+
+- **🔐 Cybersecurity**: Network security, ethical hacking, and security analysis
+- **☁️ Cloud Computing**: AWS, Google Cloud Platform, and cloud architecture
+- **🌐 Web Development**: Full-stack development with modern frameworks
+- **📊 Data Science**: Machine learning and data analysis with Python
+- **🤝 Open Source**: Contributing to open-source projects and communities
 
 ---
 
@@ -234,16 +334,6 @@ graph LR
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kondareddy1209&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </p>
-
----
-
-## 🎯 Current Focus Areas
-
-- **🔐 Cybersecurity**: Network security, ethical hacking, and security analysis
-- **☁️ Cloud Computing**: AWS, Google Cloud Platform, and cloud architecture
-- **🌐 Web Development**: Full-stack development with modern frameworks
-- **📊 Data Science**: Machine learning and data analysis with Python
-- **🤝 Open Source**: Contributing to open-source projects and communities
 
 ---
 
