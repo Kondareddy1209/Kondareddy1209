@@ -127,6 +127,12 @@ graph LR
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### 🧩 Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 ### ☁️ Cloud & Hosting Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -167,6 +173,25 @@ graph LR
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>🛡️ <strong>AI Secure Data<br/>Intelligence Platform</strong></td>
+      <td>AI-powered security platform acting as an AI Gateway, Data Scanner, Log Analyzer & Risk Engine. Detects credentials, PII, injection attacks, and brute-force patterns using Regex + Statistical (Z-score) + ML (Isolation Forest) + Claude AI layers</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=flat&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+      </td>
+      <td>
+        <a href="https://github.com/Kondareddy1209/SISA-Hackathon"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white"/></a><br/>
+        <a href="https://secureai-backend-3yg7.onrender.com/health"><img src="https://img.shields.io/badge/API-00C853?style=flat&logo=render&logoColor=white"/></a><br/>
+        <a href="https://sisa-hackathon.vercel.app"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=vercel&logoColor=white"/></a>
+      </td>
+    </tr>
     <tr>
       <td>🤖 <strong>AI Assistant Platform<br/>(Agent Seller)</strong></td>
       <td>Role-based AI agent platform with RBAC workflows, API & auth debugging, and structured team deployment</td>
