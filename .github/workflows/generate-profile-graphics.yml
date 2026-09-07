@@ -13,6 +13,8 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     name: generate-snake
+    permissions:
+      contents: write
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
@@ -59,3 +61,41 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           if git commit -m "generated: 3d contrib"; then git push; fi
+
+  # One-time setup for SUMMARY_GITHUB_TOKEN:
+  # 1) Go to https://github.com/settings/tokens/new and create a classic PAT with `public_repo` scope.
+  # 2) Open this repo -> Settings -> Secrets and variables -> Actions.
+  # 3) Click "New repository secret".
+  # 4) Name: SUMMARY_GITHUB_TOKEN
+  # 5) Secret: paste the PAT value, then click "Add secret".
+  summary-cards:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5
+          AUTO_PUSH: false
+          THEME: "tokyonight"
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "generated: profile summary cards"
+            git push origin main
+          fi
