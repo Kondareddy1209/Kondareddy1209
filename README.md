@@ -254,6 +254,26 @@ graph LR
 
 ---
 
+## 🧊 3D Contribution Calendar & Activity
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="850"/>
+</p>
+
+<!--
+  This image is generated automatically by the yoshi389111/github-profile-3d-contrib
+  GitHub Action, defined in .github/workflows/profile-3d.yml in this repo.
+  It runs on a daily schedule and can also be triggered manually from the Actions tab.
+  Swap the filename above for any of the other generated themes, e.g.:
+    ./profile-3d-contrib/profile-green-animate.svg
+    ./profile-3d-contrib/profile-season.svg
+    ./profile-3d-contrib/profile-night-view.svg
+    ./profile-3d-contrib/profile-night-green.svg
+    ./profile-3d-contrib/profile-gitblock.svg
+-->
+
+---
+
 ## 📊 GitHub Stats
 
 <table align="center">
