@@ -278,8 +278,8 @@ graph LR
 
 <table align="center">
   <tr>
-    <td><img width="420" src="https://github-readme-stats.vercel.app/api?username=Kondareddy1209&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" /></td>
-    <td><img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kondareddy1209&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" /></td>
+    <td><img width="420" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" /></td>
+    <td><img width="420" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" /></td>
   </tr>
 </table>
 
